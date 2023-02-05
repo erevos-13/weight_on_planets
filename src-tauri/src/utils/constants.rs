@@ -1,3 +1,5 @@
+/// Constants
+/// # Gravity of planets
 pub const MOON_GRAVITY: f32 = 1.661;
 pub const MERCURY_GRAVITY: f32 = 3.7;
 pub const VENUS_GRAVITY: f32 =8.87;

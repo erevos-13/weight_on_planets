@@ -1,3 +1,4 @@
+/// Base gravity
 const GRAVITY: f32 = 9.81;
 #[derive(Debug)]
 pub enum GravityOnPlanets {
